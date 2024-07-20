@@ -1,5 +1,5 @@
 # 💫 About Me:
-Skilled Big Data Engineer with 5 years of outstanding performance record in designing and implementing efficient ETL processes. Proficient in<br>Python, SQL, Apache Spark and cloud-based data platforms. Masters in Collaborating with cross-functional teams to deliver high-quality<br>solutions saving project costs by around 20%.
+Skilled Big Data Engineer with 5 years of outstanding performance record in designing and implementing efficient ETL processes. <br>Proficient in Python, SQL, Apache Spark and cloud-based data platforms.<br>Masters in Collaborating with cross-functional teams to deliver high-quality solutions saving project costs by around 20%.
 
 
 ## 🌐 Socials:
@@ -14,5 +14,3 @@ Skilled Big Data Engineer with 5 years of outstanding performance record in desi
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sebastian-srikanth&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
