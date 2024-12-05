@@ -1,5 +1,5 @@
 # 💫 About Me:
-Skilled Big Data Engineer with 5 years of outstanding performance record in designing and implementing efficient ETL processes. <br>Proficient in Python, SQL, Apache Spark and cloud-based data platforms.<br>Masters in Collaborating with cross-functional teams to deliver high-quality solutions saving project costs by around 20%.
+Skilled Big Data Engineer with outstanding performance record in designing and implementing efficient ETL processes. <br>Proficient in Python, SQL, Apache Spark and cloud-based data platforms.<br>Masters in Collaborating with cross-functional teams to deliver high-quality solutions saving project costs by around 20%.
 
 
 ## 🌐 Socials:
